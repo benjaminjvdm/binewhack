@@ -1,3 +1,5 @@
 streamlit
 numpy
 scipy
+pytest
+pytest-mock
